@@ -1,6 +1,6 @@
 [project]
 name = "netstat-output-tools"
-version = "0.1.0"
+version = "0.1.1"
 description = "Converts netstat connection and routing table output into structured records."
 requires-python = ">=3.10"
 dependencies = []
